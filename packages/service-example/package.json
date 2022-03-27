@@ -1,0 +1,11 @@
+{
+  "name": "@sitole/example",
+  "version": "1.0.0",
+  "sideEffects": false,
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "@sitole/utils": "1.0.0",
+    "express": "^4.17.1"
+  }
+}

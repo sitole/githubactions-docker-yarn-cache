@@ -1,0 +1,7 @@
+{
+  "name": "@sitole/utils",
+  "version": "1.0.0",
+  "sideEffects": false,
+  "private": true,
+  "main": "src/index.js"
+}
